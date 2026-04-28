@@ -1,4 +1,5 @@
-pslib-cz.github.io
+https://pslib-cz.github.io/2025-p2b-web-project-tomaskrupar/
+
 https://www.figma.com/design/71liKU4BIqjZSUAD7Mj8Xg/Untitled?node-id=25-833&t=s9ccGQYISgNI8UIH-1
 
 fonty: caveat brand, Special Elite
